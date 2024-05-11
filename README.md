@@ -43,20 +43,23 @@ $ npx hardhat node
 `$ npm run start`
 
 ### 8. Implementation
-1] The Marketplace Where Users can Purchase their desired NFTs
+1] List your NFTs
+![Screenshot 2024-05-11 141515](https://github.com/progspac-vnn/NFT-Market/assets/83080783/b8a1af5c-ce56-440e-9390-b040ee792d45)
+
+2] The Marketplace Where Users can Purchase their desired NFTs
 ![Screenshot 2024-05-10 202330](https://github.com/progspac-vnn/NFT-Market/assets/83080783/9071f5c1-319d-4bdc-926a-b7400f5d865c)
 
-2] Transactions Procedure through Metamask
+3] Transactions Procedure through Metamask
 
 ![Screenshot 2024-05-10 132145](https://github.com/progspac-vnn/NFT-Market/assets/83080783/35521f9c-c957-410d-86b5-6fd329082241)
 
-3] NFT uploaded to pinata our Cloud Storage 
+4] NFT uploaded to pinata our Cloud Storage 
 ![Screenshot 2024-05-10 131751](https://github.com/progspac-vnn/NFT-Market/assets/83080783/a7f9956e-019a-4753-b6f0-dabcbeccd8ad)
 
-4] Meta Data Stored successfully
+5] Meta Data Stored successfully
 ![Screenshot 2024-05-10 131740](https://github.com/progspac-vnn/NFT-Market/assets/83080783/43399963-ddf7-431f-bdfc-77f1dd31ad63)
 
-5] Backend Blockchain Working
+6] Backend Blockchain Working
 ![Screenshot 2024-05-10 131339](https://github.com/progspac-vnn/NFT-Market/assets/83080783/c533f952-dcfc-48bf-b806-f01c18f53a4f)
 
 License
