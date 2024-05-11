@@ -42,6 +42,16 @@ $ npx hardhat node
 ### 7. Launch Frontend
 `$ npm run start`
 
+### 8. Implementation
+
+![Screenshot 2024-05-10 131339](https://github.com/progspac-vnn/NFT-Market/assets/83080783/a7ee417a-fc43-41ce-8912-57e3601e509b)
+![Screenshot 2024-05-10 132145](https://github.com/progspac-vnn/NFT-Market/assets/83080783/35521f9c-c957-410d-86b5-6fd329082241)
+![Screenshot 2024-05-10 131751](https://github.com/progspac-vnn/NFT-Market/assets/83080783/a7f9956e-019a-4753-b6f0-dabcbeccd8ad)
+
+![Screenshot 2024-05-10 131740](https://github.com/progspac-vnn/NFT-Market/assets/83080783/43399963-ddf7-431f-bdfc-77f1dd31ad63)
+
+![Screenshot 2024-05-10 131339](https://github.com/progspac-vnn/NFT-Market/assets/83080783/c533f952-dcfc-48bf-b806-f01c18f53a4f)
+
 License
 ----
 MIT
