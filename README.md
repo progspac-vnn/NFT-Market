@@ -2,6 +2,17 @@
 
 A web application where users can upload their digital assets (images, gifs) to the ethereum blockchain network. The platform acts as a marketplace for users to have buy and sell these assets using ethers.  
 
+
+- The ERC-721 standard is followed in this project which specifies a set of core functions that enable the creation, transfer, and management of non-fungible tokens (NFTs) on the Ethereum blockchain.
+
+- Metamask crypto-wallet is used to store ethers and NFT assets and is used to interact with the blockchain.
+
+- Hardhat ethereum network is used for running tests and interacting with the smart contracts.
+
+- JS is used to the solidity smart contracts.
+
+- Pinata IPFS is used to store the digital assets.
+
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contract)
