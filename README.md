@@ -1,5 +1,7 @@
 # NFT Marketplace
 
+A web application where users can upload the digital assets (images, gifs) to the ethereum blockchain network. The platform acts as a marketplace for users to have buy and sell these assets using ethers.  
+
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contract)
